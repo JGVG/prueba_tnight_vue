@@ -4,14 +4,7 @@
 > El objetivo de la prueba es crear un portal web usando VueJS para mostrar y añadir usuarios.
 > La proyecto actualmente dispone de dos paginas:
 > - Componente que devuelve lista de usuarios y se muestran en una tabla -> http://localhost:8080
->
-> ![image](https://github.com/JGVG/prueba_tnight_vue/assets/37996973/c438546b-b8cf-4f1d-b60f-3e7aae897084)
-
 > - Formulario para añadir un usuario -> http://localhost:8080/agregar-usuario
->
-> ![image](https://github.com/JGVG/prueba_tnight_vue/assets/37996973/ab239ac9-3741-4aa4-b8a2-39249926e85b)
-
-
 
 # Ejecución
 
@@ -32,3 +25,13 @@ npm run serve
 
 > [!WARNING]
 > Tenga en cuenta que el proyecto usa el puerto 8080 y la API el puerto 8000 de tu local, asegúrese que no tenga nada ejecutandose en dichos puertos.
+
+
+# Listado de usuarios:
+
+![image](https://github.com/JGVG/prueba_tnight_vue/assets/37996973/8715e3cd-7e41-4822-9257-fbf53f58443a)
+
+# Agregar nuevo usuario:
+
+> ![image](https://github.com/JGVG/prueba_tnight_vue/assets/37996973/f6439d8d-a42c-4d68-90ac-fdd2fd7aa13f)
+
