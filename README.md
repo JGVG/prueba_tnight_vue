@@ -31,4 +31,4 @@ npm run serve
 ```
 
 > [!WARNING]
-> Tenga en cuenta que el proyecto usa el puerto 8080 de tu local, asegúrese que no tenga nada ejecutandose en dicho puerto.
+> Tenga en cuenta que el proyecto usa el puerto 8080 y la API el puerto 8000 de tu local, asegúrese que no tenga nada ejecutandose en dichos puertos.
