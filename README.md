@@ -5,6 +5,7 @@
 > La proyecto actualmente dispone de dos paginas:
 > - Componente que devuelve lista de usuarios y se muestran en una tabla -> http://localhost:8080
 > - Formulario para añadir un usuario -> http://localhost:8080/agregar-usuario
+> - 
 
 # Ejecución
 
@@ -28,6 +29,7 @@ Finalmente ejecutamos el arranque de proyecto usando el siguiente comando de Vue
 ```js
 npm run serve
 ```
+
 
 > [!WARNING]
 > Tenga en cuenta que el proyecto usa el puerto 8080 y la API el puerto 8000 de tu local, asegúrese que no tenga nada ejecutandose en dichos puertos.
