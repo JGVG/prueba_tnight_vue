@@ -2,7 +2,7 @@
 
 > [!NOTE]
 > El objetivo de la prueba es crear un portal web usando VueJS para mostrar y añadir usuarios.
-> La proyecto actualmente dispone de dos paginas:
+> El proyecto actualmente dispone de dos paginas:
 > - Componente que devuelve lista de usuarios y se muestran en una tabla -> http://localhost:8080
 > - Formulario para añadir un usuario -> http://localhost:8080/agregar-usuario
 
