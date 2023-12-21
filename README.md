@@ -17,7 +17,13 @@
 > symfony server:start
 > ```
 
-Una vez clonado el proyecto y despues de haber abierto el proyecto en Visual Studio Code solo habrá que ir a la consola que la IDE proporciona para ejecutar el arranque de proyecto usando el siguiente comando de Vue CLI:
+Una vez clonado el proyecto y despues de haber abierto el proyecto en Visual Studio Code solo habrá que ir a la consola que la IDE proporciona para ejecutar el comando que instala las dependencias necesarias para el proyecto:
+
+```js
+npm install
+```
+
+Finalmente ejecutamos el arranque de proyecto usando el siguiente comando de Vue CLI:
 
 ```js
 npm run serve
