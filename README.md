@@ -12,7 +12,7 @@
 > [!TIP]
 > ES NECESARIO CLONAR Y ARRANCAR LA API DE USUARIOS (https://github.com/JGVG/prueba_tnight_php), DE LO CONTRARIO LA PAGINA NO MOSTRARÁ DATOS.
 >
-> Si ya se ha clonado el proyecto solo habia que abrir una consola en la el directorio del proyecto de la API y escribir el siguiente comando de Synfony CLI:
+> Si ya se ha clonado el proyecto solo habrá que abrir una consola en el directorio del proyecto de la API y escribir el siguiente comando de Synfony CLI:
 > 
 > ```js
 > symfony server:start
